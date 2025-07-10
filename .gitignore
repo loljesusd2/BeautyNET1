@@ -1,0 +1,13 @@
+# Ignorar node_modules
+node_modules/
+
+# Archivos de entorno (variables secretas)
+.env
+
+# Carpetas de build
+dist/
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
